@@ -377,7 +377,7 @@ export interface ApiPagePage extends Schema.CollectionType {
     title: Attribute.String;
     slug: Attribute.UID<'api::page.page', 'title'>;
     sections: Attribute.DynamicZone<
-      ['section.section-two-columns', 'section.section-metadata']
+      ['section.section-two-columns', 'section.section-grid']
     >;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;

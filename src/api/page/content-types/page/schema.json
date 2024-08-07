@@ -23,7 +23,7 @@
       "type": "dynamiczone",
       "components": [
         "section.section-two-columns",
-        "section.section-metadata"
+        "section.section-grid"
       ]
     }
   }
