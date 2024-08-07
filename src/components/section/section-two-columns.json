@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_section_section_two_columns",
+  "info": {
+    "displayName": "section_two_columns",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    },
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
